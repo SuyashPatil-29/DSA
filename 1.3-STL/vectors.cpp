@@ -146,26 +146,72 @@
 //   return 0;
 // }
 
+// #include <bits/stdc++.h>
+// #include <queue>
+//
+// using namespace std;
+//
+// int main() {
+//   priority_queue<int> pq;
+//
+//   pq.push(3);
+//   pq.push(8);
+//   pq.push(16);
+//   pq.push(2);
+//   pq.push(11);
+//
+//   priority_queue<int> copy(pq);
+//
+//   for (int i = 0; i < pq.size(); i++) {
+//     cout << copy.top() << endl;
+//     copy.pop();
+//   }
+//
+//   return 0;
+// }
+
+// #include <bits/stdc++.h>
+// #include <functional>
+// #include <queue>
+// #include <vector>
+//
+// using namespace std;
+//
+// int main() {
+//   priority_queue<int, vector<int>, greater<int>> pq;
+//   pq.push(3);
+//   pq.push(8);
+//   pq.push(16);
+//   pq.push(2);
+//   pq.push(11);
+//
+//   priority_queue<int, vector<int>, greater<int>> copy(pq);
+//
+//   for (int i = 0; i < pq.size(); i++) {
+//     cout << copy.top() << endl;
+//     copy.pop();
+//   }
+//
+//   return 0;
+// }
+
 #include <bits/stdc++.h>
-#include <queue>
 
 using namespace std;
 
 int main() {
-  priority_queue<int> pq;
+  set<int> st;
+  st.emplace(4);
+  st.insert(2);
+  st.insert(3);
+  st.insert(8);
 
-  pq.push(3);
-  pq.push(8);
-  pq.push(16);
-  pq.push(2);
-  pq.push(11);
-
-  priority_queue<int> copy(pq);
-
-  for (int i = 0; i < pq.size(); i++) {
-    cout << copy.top() << endl;
-    copy.pop();
+  cout << st.size() << endl;
+  for (auto it : st) {
+    cout << it << endl;
   }
 
+  auto it = st.upper_bound(1);
+  cout << *it;
   return 0;
 }
