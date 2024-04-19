@@ -3,16 +3,18 @@
 
 using namespace std;
 
-int repetitions(string str, size_t i, size_t j, int maxrep) {
-  if (j >= str.length() - 1) {
-    return maxrep;
+int repetitions(const string &str) {
+  int maxrep = 0;
+  int currentrep = 1;
+  for (size_t i = 1; i < str.length(); ++i) {
+    if (str[i] == str[i - 1]) {
+      ++currentrep;
+    } else {
+      maxrep = max(maxrep, currentrep);
+      currentrep = 1;
+    }
   }
-
-  if (str[i] == str[j]) {
-    return repetitions(str, i, j + 1, maxrep + 1);
-  }
-
-  return repetitions(str, j, j + 1, 1);
+  return max(maxrep, currentrep);
 }
 
 int main() {
@@ -20,6 +22,7 @@ int main() {
   cin >> str;
   if (str.length() > 1000000 || str.length() < 1)
     return 0;
-  cout << repetitions(str, 0, 1, 1);
+  int prevMaxRep = 0;
+  cout << repetitions(str);
   return 0;
 }
