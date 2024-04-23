@@ -5,8 +5,8 @@ using namespace std;
 
 int main() {
   // map<int, vector<int>> mpp;
-  // multimap<int, vector<int>> mpp;
-  unordered_map<int, vector<int>> mpp;
+  multimap<int, vector<int>> mpp;
+  // unordered_map<int, vector<int>> mpp;
 
   mpp.emplace(2, vector<int>{9, 7, 6});
   mpp.emplace(2, vector<int>{3, 4, 5});
