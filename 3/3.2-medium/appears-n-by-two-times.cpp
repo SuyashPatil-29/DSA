@@ -21,3 +21,33 @@
 //   return 0;
 // }
 
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+  int arr[] = {2, 2, 3, 3, 2, 2, 2, 3, 3, 3, 3};
+  int size = sizeof(arr) / sizeof(arr[0]);
+
+  int counter = 0;
+  int store = arr[0];
+
+  for (int i = 0; i < size; i++) {
+    if (arr[i] == store) {
+      counter++;
+    } else if (arr[i] != store && counter != 0) {
+      counter--;
+    } else {
+      store = arr[i];
+      counter++;
+    }
+  }
+
+  if (counter > 0) {
+    cout << store;
+  } else {
+    cout << -1;
+  }
+
+  return 0;
+}
