@@ -9,7 +9,6 @@ tags:
 area: Algorithms
 project: DSA-Notes
 ---
-
 # The Problem Statement
 
 Lets assume we have an array of prizes of stocks where the prize of a stock on `ith` day is equal to the `arr[i]`

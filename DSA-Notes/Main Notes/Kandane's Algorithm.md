@@ -9,7 +9,6 @@ tags:
 area: Algorithms
 project: DSA-Notes
 ---
-
 int arr = {-2 , -3 , 3 , -1 , -2 , 1 , 5 , 3};
 
 ```cpp
@@ -87,6 +86,3 @@ int main() {
   cout << maxi;
   return 0;
 }
-
-```
-

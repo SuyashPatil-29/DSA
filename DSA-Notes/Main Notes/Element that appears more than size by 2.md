@@ -9,7 +9,6 @@ tags:
 area: Algorithms
 project: DSA-Notes
 ---
-
 let arr = {2,2,2,3,4,2,1,2,1,1,1,2,3};
 
 ```
