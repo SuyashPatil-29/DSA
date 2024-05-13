@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Tags/Array Medium Questions.md",
+                "file": "Main Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - Tags/Array Medium Questions.md",
+                "file": "Main Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - Tags/Array Medium Questions.md",
+                "file": "Main Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Tags/Array Medium Questions.md"
+                "file": "Main Notes/Untitled.md"
               }
             }
           }
@@ -149,16 +149,17 @@
   },
   "active": "c0d595fc9d59a8eb",
   "lastOpenFiles": [
+    "1 - Templates/Questions.md",
+    "Main Notes/Untitled.md",
     "Main Notes/Rearrange elements by Sign.md",
+    "0 - Tags/Array Medium Questions.md",
+    "Main Notes/Buy and sell stocks.md",
+    "Main Notes/Element that appears more than size by 2.md",
+    "Main Notes/Kandane's Algorithm.md",
     "Main Notes/Rearrange elements by Sign.md~",
     "12-05-2024.md",
-    "0 - Tags/Array Medium Questions.md",
-    "Main Notes/Kandane's Algorithm.md",
-    "1 - Templates/Questions.md",
     "Main Notes/test.md",
-    "Main Notes/Buy and sell stocks.md",
     "Zettelkasten/test.md~",
-    "Main Notes/Element that appears more than size by 2.md",
     "0 - Tags/AtoZ.md",
     "0 - Tags/DSA.md",
     "Zettelkasten/Test Note.md",
