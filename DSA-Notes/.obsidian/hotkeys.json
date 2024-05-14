@@ -6,5 +6,13 @@
       ],
       "key": "T"
     }
+  ],
+  "theme:switch": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }

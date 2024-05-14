@@ -1,28 +1,13 @@
 ---
-id: Untitled
+id: "{{title}}"
 aliases: 
 tags: 
 area: Algorithms
 project: DSA-Notes
 ---
-#### On 13-05-2024 at 17:34
+#### On {{date}} at {{time}}
 
 # The Problem Statement
-
-
-
-
-
 ## Brute Force Approach
-
-
-
-
-
 ## Better Approach
-
-
-
-
-
 ## Optimal Approach
