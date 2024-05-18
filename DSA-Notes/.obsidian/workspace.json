@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "831aa39b1321ca28",
+        "id": "7532b58238440a4b",
         "type": "tabs",
         "children": [
           {
-            "id": "9eff6cb13ea527ad",
+            "id": "efe51f3746eee1f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Notes/Leaders in an array.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/Leaders in an array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/Leaders in an array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Main Notes/Leaders in an array.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,21 +140,31 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "9eff6cb13ea527ad",
+  "active": "efe51f3746eee1f6",
   "lastOpenFiles": [
-    "Main Notes/Leaders in an array.md",
+    "Excalidraw/Sort an array.excalidraw.md",
     "0 - Index/Array Medium Questions.md",
+    "Main Notes/Rotate a matrix by 90 degree.md",
+    "3 - Images/Spiral Matrix order.png",
+    "3 - Images/Spiral Matrix Intuition.png",
+    "Main Notes/Print matrix in spiral order.md",
+    "Main Notes/Print matrix in spiral order.md~",
+    "Main Notes/Longest consecutive sequence.md",
+    "Main Notes/Rotate a matrix by 90 degree.md~",
+    "3 - Images/Transpose a matrix base.png",
+    "3 - Images/Rotate a matrix by 90 degree optimal approach intuition.png",
+    "Excalidraw/Transpose a matrix.excalidraw.md",
+    "Main Notes/Rearrange elements by Sign.md",
+    "Main Notes/Kandane's Algorithm.md",
+    "Main Notes/Sort an array of 0's 1's and 2's.md",
+    "Main Notes/Leaders in an array.md",
     "1 - Tags/DSA.md",
     "1 - Tags/AtoZ.md",
-    "Excalidraw/Sort an array.excalidraw.md",
     "3 - Images/Finding the dip.png",
-    "Main Notes/Sort an array of 0's 1's and 2's.md",
     "Main Notes/Tessst.md",
     "Main Notes/Next Permutation.md",
-    "Main Notes/Rearrange elements by Sign.md",
     "Main Notes/Buy and sell stocks.md",
     "2 - Templates/Questions.md",
-    "Main Notes/Kandane's Algorithm.md",
     "3 - Images",
     "Main Notes/Next Permutation.md~",
     "0 - Index",
@@ -180,12 +182,6 @@
     "Zettelkasten/Untitled.md",
     "Main Notes",
     "1 - Tags",
-    "999 Templates/Question Name.md~",
-    "2 - Templates",
-    "1715431978-UMGH.md",
-    "Drawing 2024-05-11 16.34.25.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-11 16.29.45.excalidraw.md",
-    "create a link.md",
-    "Welcome.md"
+    "1715431978-UMGH.md"
   ]
 }

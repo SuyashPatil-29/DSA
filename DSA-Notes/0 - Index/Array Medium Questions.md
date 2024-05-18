@@ -17,3 +17,7 @@ project: DSA-Notes
 [[Buy and sell stocks]]
 [[Rearrange elements by Sign]]
 [[Next Permutation]]
+[[Leaders in an array]]
+[[Longest consecutive sequence]]
+[[Rotate a matrix by 90 degree]]
+[[Print matrix in spiral order]]
