@@ -91,4 +91,4 @@ int main() {
 }
 ```
 
-**Time Complexity: log(n) base 2**
+Time Complexity: O(log n)

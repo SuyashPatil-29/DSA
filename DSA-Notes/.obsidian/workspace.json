@@ -11,12 +11,8 @@
             "id": "bb843cadcaf796e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Notes/Binary Search Basics.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/Binary Search Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/Binary Search Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Main Notes/Binary Search Basics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,12 +142,19 @@
   },
   "active": "bb843cadcaf796e9",
   "lastOpenFiles": [
+    "0 - Index/Binary Search Questions.md",
+    "0 - Index/Array Medium Questions.md",
+    "Main Notes/Search Insert Position.md",
+    "Main Notes/Print matrix in spiral order.md",
+    "Main Notes/Binary Search Basics.md",
+    "Main Notes/Upper Bound.md",
+    "Main Notes/Search Insert Position.md~",
+    "Main Notes/Lower bound.md",
+    "Main Notes/Upper Bound.md~",
+    "Main Notes/Lower bound.md~",
     "Main Notes/Binary Search Basics.md~",
     "1 - Tags/DSA.md",
     "1 - Tags/AtoZ.md",
-    "0 - Index/Binary Search Questions.md",
-    "0 - Index/Array Medium Questions.md",
-    "Main Notes/Binary Search Basics.md",
     "Excalidraw/Sort an array.excalidraw.md",
     "Main Notes/Rearrange elements by Sign.md",
     "Main Notes/Rotate a matrix by 90 degree.md",
@@ -164,7 +163,6 @@
     "Main Notes/Element that appears more than size by 2.md",
     "3 - Images/Spiral Matrix order.png",
     "3 - Images/Spiral Matrix Intuition.png",
-    "Main Notes/Print matrix in spiral order.md",
     "Main Notes/Print matrix in spiral order.md~",
     "Main Notes/Longest consecutive sequence.md",
     "Main Notes/Rotate a matrix by 90 degree.md~",
@@ -183,14 +181,7 @@
     "Main Notes/Sorting.md",
     "Excalidraw",
     "Untitled.canvas",
-    "Main Notes/Rearrange elements by Sign.md~",
     "12-05-2024.md",
-    "Main Notes/test.md",
-    "Zettelkasten/test.md~",
-    "Zettelkasten/Test Note.md",
-    "Zettelkasten/Test note.md",
-    "Zettelkasten/Tags.md",
-    "Main Notes",
-    "1 - Tags"
+    "Main Notes/test.md"
   ]
 }
