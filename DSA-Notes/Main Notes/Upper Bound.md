@@ -45,3 +45,6 @@ int main() {
 > The only thing that is different from [[Lower bound]] is that in lower bound we check for `arr[mid] >= target` but in upper bound we only check for `arr[mid] > target`.
 
 Time Complexity - O(log n)
+
+> [!NOTE]
+> This is a new note
