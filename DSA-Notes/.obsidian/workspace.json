@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Notes/Upper Bound.md",
-                "mode": "source",
+                "file": "Main Notes/Next Permutation.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "44713e72dd603b47",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/Upper Bound.md",
+                "file": "Main Notes/Next Permutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/Upper Bound.md",
+                "file": "Main Notes/Next Permutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Notes/Upper Bound.md"
+                "file": "Main Notes/Next Permutation.md"
               }
             }
           }
@@ -151,12 +150,25 @@
   },
   "active": "bb843cadcaf796e9",
   "lastOpenFiles": [
+    "Main Notes/Sort an array of 0's 1's and 2's.md",
+    "Excalidraw/Sort an array.excalidraw.md",
+    "Main Notes/Rearrange elements by Sign.md",
+    "Main Notes/Kandane's Algorithm.md",
+    "Main Notes/Buy and sell stocks.md",
+    "Main Notes/Element that appears more than size by 2.md",
     "0 - Index/Binary Search Questions.md",
+    "Main Notes/First Or Last Occurrence.md",
+    "Main Notes/First Or Last Occurance.md~",
+    "Main Notes/Floor or ceil of a number.md",
+    "Main Notes/Floor or ceil of a number.md~",
+    "Main Notes/First Or Last Occurance.md",
+    "Main Notes/Untitled.md",
+    "Main Notes/Upper Bound.md",
+    "Main Notes/first-or-last-occurance.md",
     "0 - Index/Array Medium Questions.md",
     "Main Notes/Search Insert Position.md",
     "Main Notes/Print matrix in spiral order.md",
     "Main Notes/Binary Search Basics.md",
-    "Main Notes/Upper Bound.md",
     "Main Notes/Search Insert Position.md~",
     "Main Notes/Lower bound.md",
     "Main Notes/Upper Bound.md~",
@@ -164,12 +176,7 @@
     "Main Notes/Binary Search Basics.md~",
     "1 - Tags/DSA.md",
     "1 - Tags/AtoZ.md",
-    "Excalidraw/Sort an array.excalidraw.md",
-    "Main Notes/Rearrange elements by Sign.md",
     "Main Notes/Rotate a matrix by 90 degree.md",
-    "Main Notes/Buy and sell stocks.md",
-    "Main Notes/Kandane's Algorithm.md",
-    "Main Notes/Element that appears more than size by 2.md",
     "3 - Images/Spiral Matrix order.png",
     "3 - Images/Spiral Matrix Intuition.png",
     "Main Notes/Print matrix in spiral order.md~",
@@ -178,19 +185,12 @@
     "3 - Images/Transpose a matrix base.png",
     "3 - Images/Rotate a matrix by 90 degree optimal approach intuition.png",
     "Excalidraw/Transpose a matrix.excalidraw.md",
-    "Main Notes/Sort an array of 0's 1's and 2's.md",
     "Main Notes/Leaders in an array.md",
     "3 - Images/Finding the dip.png",
     "Main Notes/Tessst.md",
     "Main Notes/Next Permutation.md",
-    "2 - Templates/Questions.md",
     "3 - Images",
     "Main Notes/Next Permutation.md~",
-    "0 - Index",
-    "Main Notes/Sorting.md",
-    "Excalidraw",
-    "Untitled.canvas",
-    "12-05-2024.md",
-    "Main Notes/test.md"
+    "Untitled.canvas"
   ]
 }

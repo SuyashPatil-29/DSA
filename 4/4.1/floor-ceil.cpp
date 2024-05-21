@@ -14,6 +14,7 @@ int main() {
   int ceil = 0;
   int floor = 0;
 
+  // To find ceil
   while (lb <= ub) {
     int mid = (ub + lb) / 2;
     if (target <= arr[mid]) {
@@ -27,6 +28,7 @@ int main() {
   lb = 0;
   ub = n - 1;
 
+  // To find floor
   while (lb <= ub) {
     int mid = (ub + lb) / 2;
     if (target >= arr[mid]) {

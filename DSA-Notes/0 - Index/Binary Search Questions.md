@@ -14,3 +14,5 @@ project: DSA-Notes
 [[Lower bound]]
 [[Upper Bound]]
 [[Search Insert Position]]
+[[First Or Last Occurance]]
+[[Floor or ceil of a number]]
